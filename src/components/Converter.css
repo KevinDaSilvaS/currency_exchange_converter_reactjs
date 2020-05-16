@@ -1,0 +1,37 @@
+.converter{
+    padding: 5%;
+    background-color: rgb(144, 73, 214);
+}
+
+body{
+    background-color: rebeccapurple;
+    font-family: sans-serif;
+    color: white;
+}
+
+.div-selector{
+    display: grid;
+    width: 49%;
+    float: left;
+}
+
+.space{
+    width: 2%;
+    float: left;
+}
+
+.title{
+    padding-top: 30%;
+}
+
+select, input{
+    padding: 15px;
+    background-color: azure;
+    border-style: none;
+}
+
+button{
+    padding: 16px;
+    background-color: rebeccapurple;
+    border-color: rgb(144, 73, 214);
+}
